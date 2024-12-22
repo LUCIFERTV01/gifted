@@ -44,7 +44,7 @@
 ### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
 
 <details>
-<summary>GET YOUR SESSION_ID</summary>
+<summary>GET YOUR SESSION_ID</Gifted~imAn0QrT#Xgb77muZPTSREz9pe83PQo9TJDfiIRakQU2zNkNRryA>
 <a href="https://session.giftedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
 - Session ID must start with **Gifted~** and is 15 characters in length.
